@@ -11,15 +11,14 @@
         <!-- Awesomefont -->
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
         <!-- General CSS Settings -->
-        <link rel="stylesheet" href="css/g_style.css">
+        <link rel="stylesheet" href="http://office.narbon.ir:4488/zmcdn/css/g_style.css">
         <!-- Main Style of the template -->
-        <link rel="stylesheet" href="css/m_style.css">
+        <link rel="stylesheet" href="http://office.narbon.ir:4488/zmcdn/css/m_style.css">
         <!-- Reseters -->
-        <link rel="stylesheet" href="css/r_style.css">
+        <link rel="stylesheet" href="http://office.narbon.ir:4488/zmcdn/css/r_style.css">
         <!-- Fav Icon -->
-        <link rel="shortcut icon" href="icon/favicon.ico">
-        <link rel="stylesheet" type="text/css" href="css/shadowbox.css">
-        <script type="text/javascript" src="https://amirh-rezaii/shadowbox.js"></script>
+        <link rel="shortcut icon" href="http://office.narbon.ir:4488/zmcdn/icon/favicon.ico">
+        <link rel="stylesheet" type="text/css" href="http://office.narbon.ir:4488/zmcdn/css/shadowbox.css">
         <script type="text/javascript">
             Shadowbox.init();
         </script>
@@ -232,14 +231,6 @@
 
                         <!-- Side Bar -->
                         <div class="lx-side-bar">
-                            <br>
-                            <br>
-                            <br>
-                            <br>
-                            <br>
-                            <br>
-                            <br>
-                            <br>
                             <div class="lx-social-media">
                                 <ul>
                                     <li><a href="https://www.facebook.com/" target="_blank"><i class="fa fa-facebook"></i></a></li>
@@ -281,10 +272,10 @@
         </div>
         <!-- End Wrapper -->
         <!-- JQuery -->
-        <script src="js/jquery.js"></script>
+        <script src="http://office.narbon.ir:4488/zmcdn/js/jquery.js"></script>
         <!-- Popup Script -->
-        <script src="js/j_popup.js"></script>
+        <script src="http://office.narbon.ir:4488/zmcdn/js/j_popup.js"></script>
         <!-- Main Script -->
-        <script src="js/index.js"></script>
+        <script src="http://office.narbon.ir:4488/zmcdn/js/index.js"></script>
     </body>
 </html>
