@@ -46,7 +46,7 @@
 
             <!-- Copyright -->
             <div class="lx-copyright">
-                <p>Designed With &hearts; By Amirhossein Mohammadi &copy</p>
+                <p><?php echo 'Designed With <i class="fa fa-heart"></i> By Amirhossein Mohammadi <i class="fa fa-copyright"></i>'; ?></p>
             </div>
             <!-- End Copyright -->
 
